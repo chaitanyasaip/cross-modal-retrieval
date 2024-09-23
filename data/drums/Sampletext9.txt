@@ -1,0 +1,2 @@
+Description: “TSP_VDBE_174_bass_synth_kick_n_bass_Fmin”
+Tags: “drum and bass”, “synth”, “bass”, “kicks”

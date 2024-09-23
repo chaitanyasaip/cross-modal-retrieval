@@ -1,0 +1,2 @@
+Description: “OS_OG_140_drum_loop_nuke”
+Tags: “grooves”, “trap”

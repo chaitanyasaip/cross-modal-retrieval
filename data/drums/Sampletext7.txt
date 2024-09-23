@@ -1,0 +1,2 @@
+Description: “RU_AO_112_synth_bass_log_drum_entity_Ebmin”
+Tags: “synth”, “bass”, “amapiano”, “log drum”

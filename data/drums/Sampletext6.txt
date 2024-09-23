@@ -1,0 +1,2 @@
+Description: “FF_ET_subdrop_with_click”
+Tags: “synth”, “bass”, “fx”, “cymbals”, “crash”, “cinematic”, “sub”, “drops”

@@ -1,0 +1,2 @@
+Description: “FL_PT_KIT04_Crash”
+Tags: “cymbals”, “crash”, “hip hop”, “trap”
