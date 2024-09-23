@@ -19,3 +19,19 @@ This project implements a cross-modal retrieval system that enables searching an
 2. Install the required dependencies:
    ```
    pip install -r requirements.txt
+
+
+## Outcome
+
+Query: "I want to hear some rock music"
+
+![image](./images/rockmusic.png)
+
+Query: "I want to hear some pop music"
+
+![image](./images/popmusic.png)
+
+Query: "I want to hear some piano music"
+
+![image](./images/pianomusic.png)
+

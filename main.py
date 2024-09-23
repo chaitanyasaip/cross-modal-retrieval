@@ -57,7 +57,8 @@ def main():
     #text_query = "Energetic drum beats"
     #text_query = "I want to hear some bass music"
     #text_query = "I want to hear some piano music"
-    text_query = "I want to hear some pop music"
+    #text_query = "I want to hear some pop music"
+    text_query = "I want to hear some rock music"
     logging.info(f"Processing text query: '{text_query}'")
     preprocessed_text = preprocess_text(text_query)
     text_embedding = embedding_generator.embed_text(preprocessed_text)
