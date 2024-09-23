@@ -1,7 +1,7 @@
 # Cross-Modal Retrieval Project
 
 ## Description
-This project implements a cross-modal retrieval system that enables searching and retrieving information across different types of media, including text and images. It utilizes deep learning techniques to create a shared embedding space for multiple modalities, allowing for efficient and accurate retrieval of related content across different data types.
+This project implements a cross-modal retrieval system that enables searching and retrieving information across different types of media, including text and audio. It utilizes deep learning techniques to create a shared embedding space for multiple modalities, allowing for efficient and accurate retrieval of related content across different data types.
 
 ## Features
 - Multi-modal embedding: Create a unified representation space for text and image data
